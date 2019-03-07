@@ -17,6 +17,7 @@ numpy = "*"
 scikit-learn = "*"
 scipy = "*"
 python-dotenv = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
